@@ -113,4 +113,8 @@ public class FicheroAccesoMultiple {
         }
 
     }
+    
+    void nuevoProcOrig(){
+        
+    }
 }
