@@ -18,9 +18,11 @@ import java.nio.channels.FileLock;
  * Voy a redirigir la salida estándar y la de error al fichero javalog.txt
  */
 public class FicheroAccesoMultiple {
-
+    void nuevoMetodoEnCopia(){
+        
+    }
     public static void main(String[] args) {
-        String otraVar;
+      
         String nombreArchivo = ""; //nombre del archivo
         File archivo = null; //archivo
         int orden = 0;   //orden del proceso
