@@ -15,3 +15,4 @@ build/*
 dist/*
 prueba.txt
 javalog.txt
+src/ficheroaccesomultiple/FicheroAccesoMultiple.java.orig
