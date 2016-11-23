@@ -20,6 +20,7 @@ import java.nio.channels.FileLock;
 public class FicheroAccesoMultiple {
 
     public static void main(String[] args) {
+        String nuevaVar;
         String nombreArchivo = ""; //nombre del archivo
         File archivo = null; //archivo
         int orden = 0;   //orden del proceso
@@ -43,7 +44,7 @@ public class FicheroAccesoMultiple {
             System.setOut(ps);
             System.setErr(ps);
         } catch (Exception e) {
-            System.err.println("Error. P " + orden + "No he podido redirigir la salida");
+            System.err.println("Error. P " + orden + "No he podido redirigir la salida ");
         }
 
         //1. referencia al file pasado como argumento
