@@ -44,7 +44,7 @@ public class FicheroAccesoMultiple {
             System.setOut(ps);
             System.setErr(ps);
         } catch (Exception e) {
-            System.err.println("Error. P " + orden + "No he podido redirigir la salida");
+            System.err.println("Error. P " + orden + "No he podido redirigir la salida ");
         }
 
         //1. referencia al file pasado como argumento
