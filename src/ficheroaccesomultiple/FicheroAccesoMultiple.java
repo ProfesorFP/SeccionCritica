@@ -120,4 +120,8 @@ public class FicheroAccesoMultiple {
       void nuevoProcNuevaRama(){
         
     }
+     
+     void metodoStash(){
+         
+     }
 }
