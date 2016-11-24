@@ -117,4 +117,7 @@ public class FicheroAccesoMultiple {
      void nuevoProcCopia(){
         
     }
+      void nuevoProcNuevaRama(){
+        
+    }
 }
