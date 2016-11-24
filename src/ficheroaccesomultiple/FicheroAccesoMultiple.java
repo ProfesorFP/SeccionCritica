@@ -115,6 +115,6 @@ public class FicheroAccesoMultiple {
     }
     
      void nuevoProcCopia(){
-        
+        //adios
     }
 }
