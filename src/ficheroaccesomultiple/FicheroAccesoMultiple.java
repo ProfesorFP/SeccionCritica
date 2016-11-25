@@ -116,6 +116,6 @@ public class FicheroAccesoMultiple {
     
      void nuevoProcCopia(){
         //adios
-         int nuevaVarEnCopia;
+         int nuevaVarOriginal;
     }
 }
