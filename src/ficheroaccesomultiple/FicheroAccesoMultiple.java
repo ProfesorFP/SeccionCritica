@@ -22,6 +22,7 @@ public class FicheroAccesoMultiple {
         
     }
     public static void main(String[] args) {
+        int pruebas=1;
         int temporal=1;
         String nombreArchivo = ""; //nombre del archivo
         File archivo = null; //archivo
