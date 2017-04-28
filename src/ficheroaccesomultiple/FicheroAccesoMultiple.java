@@ -22,7 +22,7 @@ public class FicheroAccesoMultiple {
         
     }
     public static void main(String[] args) {
-      
+        int temporal=1;
         String nombreArchivo = ""; //nombre del archivo
         File archivo = null; //archivo
         int orden = 0;   //orden del proceso
